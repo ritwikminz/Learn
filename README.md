@@ -74,8 +74,9 @@ Industry-grade tutorials and implementations for computer vision
 📌 **What’s New in SQL Server 2025**  
 Official Microsoft documentation on new SQL Server capabilities  
 🔗 https://github.com/MicrosoftDocs/sql-docs/blob/live/docs/sql-server/what-s-new-in-sql-server-2025.md
-🔗 https://blog.sqlauthority.com.md
-🔗 https://www.sqlservercentral.com/forums/forum/sqlservercentral-com/the-future-of-community.md
+🔗 https://blog.sqlauthority.com
+🔗 https://www.sqlservercentral.com/forums/forum/sqlservercentral-com/the-future-of-community
+
 
 ---
 
