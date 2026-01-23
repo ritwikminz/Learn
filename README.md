@@ -78,6 +78,28 @@ Official Microsoft documentation on new SQL Server capabilities
 🔗 https://blog.sqlauthority.com
 🔗 https://www.sqlservercentral.com/forums/forum/sqlservercentral-com/the-future-of-community
 
+## 🧩 Microservices (.NET)
+
+🔹 **Learn .NET Microservices**  
+Hands-on learning repository covering microservices concepts using .NET  
+👉 https://github.com/Beelzenef/learn_dotnetmicroservices
+
+🔹 **.NET Core Microservices PoC**  
+Proof of concept implementation for microservices architecture in .NET Core  
+👉 https://github.com/asc-lab/dotnetcore-microservices-poc
+
+🔹 **Awesome Microservices – .NET**  
+Curated list of microservices resources, patterns, and tools for .NET  
+👉 https://github.com/mjebrahimi/Awesome-Microservices-DotNet
+
+🔹 **Awesome .NET Tips**  
+Best practices, performance tips, and architectural guidance for .NET developers  
+👉 https://github.com/meysamhadeli/awesome-dotnet-tips
+
+🔹 **API Gateway Pattern (.NET)**  
+Implementation of the API Gateway pattern using .NET  
+👉 https://github.com/CodeMazeBlog/api-gateway-pattern-dotnet
+
 
 ---
 
