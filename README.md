@@ -47,7 +47,7 @@ Essential math concepts explained for ML practitioners
 📌 **Awesome AI / ML Resources**  
 Broad, well-organized collection of AI and ML learning materials  
 🔗 https://github.com/armankhondker/awesome-ai-ml-resources<br>
-🔗 (https://github.com/github/copilot-sdk?utm_source=blog-cli-sdk-repo-cta&utm_medium=blog&utm_campaign=cli-sdk-jan-2026)
+🔗 https://github.com/github/copilot-sdk?utm_source=blog-cli-sdk-repo-cta&utm_medium=blog&utm_campaign=cli-sdk-jan-2026
 
 ---
 
@@ -56,7 +56,7 @@ Broad, well-organized collection of AI and ML learning materials
 
 📌 **500+ AI / ML / DL / CV / NLP Projects with Code**  
 Extensive repository of practical projects across AI domains  
-🔗 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+🔗 https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code<br>
 🔗 https://aakashgupta.medium.com/you-dont-need-to-learn-coding-anymore-here-are-8-tools-that-do-it-for-you-c029b6a98bc9
 
 ---
