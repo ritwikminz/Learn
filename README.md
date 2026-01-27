@@ -47,7 +47,7 @@ Essential math concepts explained for ML practitioners
 📌 **Awesome AI / ML Resources**  
 Broad, well-organized collection of AI and ML learning materials  
 🔗 https://github.com/armankhondker/awesome-ai-ml-resources
-https://github.com/github/copilot-sdk?utm_source=blog-cli-sdk-repo-cta&utm_medium=blog&utm_campaign=cli-sdk-jan-2026
+🔗 (https://github.com/github/copilot-sdk?utm_source=blog-cli-sdk-repo-cta&utm_medium=blog&utm_campaign=cli-sdk-jan-2026)
 
 ---
 
