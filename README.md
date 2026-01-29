@@ -29,7 +29,8 @@ Hands-on, end-to-end training program for modern LLM applications
 
 📌 **Awesome LLM Apps**  
 Curated list of real-world LLM-powered applications and use cases  
-🔗 https://github.com/Shubhamsaboo/awesome-llm-apps
+🔗 https://github.com/Shubhamsaboo/awesome-llm-apps<br>
+🔗 https://github.com/lfnovo/open-notebook
 
 📌 **System Prompts & AI Tool Models**  
 Collection of system prompts, patterns, and AI tool behaviors  
