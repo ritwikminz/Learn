@@ -20,7 +20,8 @@ Deep dive into building and understanding LLMs from first principles
 
 📌 **LLM Zoomcamp**  
 Hands-on, end-to-end training program for modern LLM applications  
-🔗 https://github.com/DataTalksClub/llm-zoomcamp
+🔗 https://github.com/DataTalksClub/llm-zoomcamp<br>
+🔗 https://github.com/microsoft/semantic-kernel?tab=readme-ov-file
 
 ---
 
