@@ -51,7 +51,16 @@ Broad, well-organized collection of AI and ML learning materials
 🔗 https://github.com/armankhondker/awesome-ai-ml-resources<br>
 🔗 https://github.com/github/copilot-sdk?utm_source=blog-cli-sdk-repo-cta&utm_medium=blog&utm_campaign=cli-sdk-jan-2026<br>
 🔗 https://github.com/openclaw/openclaw
-
+🔗 https://github.com/n8n-io/n8n
+🔗 https://github.com/ollama/ollama
+🔗 https://github.com/langflow-ai/langflow
+🔗 https://github.com/langgenius/dify
+🔗 https://github.com/langchain-ai/langchain
+🔗 https://github.com/open-webui/open-webui
+🔗 https://github.com/deepseek-ai/DeepSeek-V3
+🔗 https://github.com/cruzyjapan/Gemini-CLI-UI
+🔗 https://github.com/infiniflow/ragflow
+🔗 https://github.com/anthropics/claude-code
 ---
 
 ## 🛠 Hands-On AI, ML & NLP Projects
