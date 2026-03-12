@@ -114,13 +114,13 @@ Best practices, performance tips, and architectural guidance for .NET developers
 Implementation of the API Gateway pattern using .NET  
 👉 https://github.com/CodeMazeBlog/api-gateway-pattern-dotnet
 ---
-
-🛠 **System Design**
-🔗 https://github.com/donnemartin/system-design-primer 
-🔗 https://github.com/ByteByteGoHq/system-design-101
-🔗 https://github.com/karanpratapsingh/system-design
-🔗 https://github.com/ashishps1/awesome-system-design-resources
-🔗 https://github.com/checkcheckzz/system-design-interview
+<br>
+🛠 **System Design**<br>
+🔗 https://github.com/donnemartin/system-design-primer<br>
+🔗 https://github.com/ByteByteGoHq/system-design-101<br>
+🔗 https://github.com/karanpratapsingh/system-design<br>
+🔗 https://github.com/ashishps1/awesome-system-design-resources<br>
+🔗 https://github.com/checkcheckzz/system-design-interview<br>
 
 ---
 
