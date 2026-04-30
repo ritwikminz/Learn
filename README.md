@@ -124,6 +124,23 @@ Implementation of the API Gateway pattern using .NET
 🔗 https://github.com/ashishps1/awesome-system-design-resources<br>
 🔗 https://github.com/checkcheckzz/system-design-interview<br>
 
+<br>
+**Claude - AI**
+*Learners, developers*
+https://github.com/shareAI-lab/learn-claude-code<br>
+*Prompt researchers*
+https://github.com/Piebald-AI/claude-code-system-prompts<br>
+https://github.com/davila7/claude-code-templates<br>
+https://github.com/hesreallyhim/awesome-claude-code<br>
+https://github.com/affaan-m/everything-claude-code<br>
+https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools<br>
+https://github.com/garrytan/gstack<br>
+https://github.com/gsd-build/get-shit-done<br>
+**Everyday users**
+https://github.com/shanraisshan/claude-code-best-practice<br>
+*Agent builders*
+https://github.com/VoltAgent/awesome-claude-code-subagents<br>
+
 ---
 
 ## 🎯 Why I Track These Repositories
