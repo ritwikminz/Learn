@@ -125,10 +125,10 @@ Implementation of the API Gateway pattern using .NET
 🔗 https://github.com/checkcheckzz/system-design-interview<br>
 
 <br>
-**Claude - AI**
-*Learners, developers*
+**Claude - AI**<br>
+*Learners, developers*<br>
 https://github.com/shareAI-lab/learn-claude-code<br>
-*Prompt researchers*
+*Prompt researchers*<br>
 https://github.com/Piebald-AI/claude-code-system-prompts<br>
 https://github.com/davila7/claude-code-templates<br>
 https://github.com/hesreallyhim/awesome-claude-code<br>
@@ -136,9 +136,9 @@ https://github.com/affaan-m/everything-claude-code<br>
 https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools<br>
 https://github.com/garrytan/gstack<br>
 https://github.com/gsd-build/get-shit-done<br>
-**Everyday users**
+**Everyday users**<br>
 https://github.com/shanraisshan/claude-code-best-practice<br>
-*Agent builders*
+*Agent builders*<br>
 https://github.com/VoltAgent/awesome-claude-code-subagents<br>
 
 ---
