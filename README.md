@@ -141,8 +141,8 @@ https://github.com/shanraisshan/claude-code-best-practice<br>
 *Agent builders*<br>
 https://github.com/VoltAgent/awesome-claude-code-subagents<br>
 <br>
-**Projects**<br>
-----------------------------------------------------------------------------------
+**[Projects](https://www.youtube.com/@shweta-lodha)**<br>
+----------------------------------------------------------------------------------<br>
 1.https://www.youtube.com/watch?v=s-Mc26Ytz10<br>
 2.https://www.youtube.com/watch?v=247Z3jdw_hs<br>
 3.https://www.youtube.com/watch?v=XFmYkJJxsr8<br>
