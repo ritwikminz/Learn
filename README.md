@@ -163,6 +163,131 @@ Implementation of the API Gateway pattern using .NET
 4. https://www.youtube.com/watch?v=vl6k_5epDgNt
 5. https://github.com/bharats_India
 
+# Top Self-Hosting GitHub Repositories
+
+A curated collection of useful self-hosting repositories covering automation, monitoring, cloud storage, media management, tunneling, and infrastructure tools.
+
+---
+
+## 1. Awesome Self-Hosted
+**Description:**  
+A large curated list of free software network services and web applications that can be self-hosted.
+
+**Category:** Directory / Analytics / Self-hosted Resources  
+
+**GitHub:**  
+https://github.com/awesome-selfhosted/awesome-selfhosted#analytics
+
+## 2. Coolify
+**Description:**  
+An open-source and self-hostable alternative to platforms like Heroku, Netlify, and Vercel.
+
+**Category:** Deployment Platform / PaaS
+
+**GitHub:**  
+https://github.com/coollabsio/coolify
+---
+
+## 3. n8n
+**Description:**  
+Workflow automation platform that enables connecting apps and automating tasks.
+
+**Category:** Workflow Automation
+
+**GitHub:**  
+https://github.com/n8n-io/n8n
+---
+
+## 4. Uptime Kuma
+**Description:**  
+A modern self-hosted monitoring tool for uptime checks and service health tracking.
+
+**Category:** Monitoring
+
+**GitHub:**  
+https://github.com/louislam/uptime-kuma
+---
+
+## 5. Nextcloud
+**Description:**  
+A self-hosted content collaboration and cloud storage platform.
+
+**Category:** Cloud Storage / Collaboration
+
+**GitHub:**  
+https://github.com/nextcloud/server
+---
+
+## 6. Immich
+**Description:**  
+A self-hosted photo and video backup solution with AI-powered features.
+
+**Category:** Media Management
+
+**GitHub:**  
+https://github.com/immich-app/immich
+---
+
+## 7. Memos
+**Description:**  
+A lightweight self-hosted note-taking and knowledge-sharing application.
+
+**Category:** Notes / Productivity
+
+**GitHub:**  
+https://github.com/usememos/memos
+---
+
+## 8. Proxmox VE Community Scripts
+**Description:**  
+Community-maintained scripts for simplifying deployment and management within Proxmox environments.
+
+**Category:** Virtualization / Infrastructure
+
+**GitHub:**  
+https://github.com/community-scripts/ProxmoxVE
+
+---
+
+## 9. Awesome Tunneling
+**Description:**  
+A curated list of tunneling, reverse proxy, and networking tools.
+
+**Category:** Networking / Remote Access
+
+**GitHub:**  
+https://github.com/anderspitman/awesome-tunneling
+
+---
+
+## 10. Self-Hosting Guide
+**Description:**  
+Comprehensive guide and resource collection for building self-hosted infrastructure.
+
+**Category:** Learning / Documentation
+
+**GitHub:**  
+https://github.com/mikeroyal/Self-Hosting-Guide
+
+---
+
+## Summary Table
+
+| Repository | Category | Primary Use |
+|-------------|-----------|-------------|
+| Awesome Self-Hosted | Directory | Discover applications |
+| Coolify | PaaS | Deploy apps |
+| n8n | Automation | Workflow automation |
+| Uptime Kuma | Monitoring | Service monitoring |
+| Nextcloud | Cloud Storage | File management |
+| Immich | Media | Photo backup |
+| Memos | Productivity | Notes management |
+| Proxmox Scripts | Infrastructure | VM/container setup |
+| Awesome Tunneling | Networking | Secure connectivity |
+| Self-Hosting Guide | Documentation | Learning & setup |
+
+
+
 ---
 
 ## 🌟 Why I Track These Repositories
