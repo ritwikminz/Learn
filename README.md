@@ -270,6 +270,8 @@ Comprehensive guide and resource collection for building self-hosted infrastruct
 https://github.com/mikeroyal/Self-Hosting-Guide
 
 ---
+**Anthropic Skills**<br>
+https://github.com/anthropics/skills
 
 ## Summary Table
 
