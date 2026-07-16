@@ -274,19 +274,19 @@ https://github.com/mikeroyal/Self-Hosting-Guide
 https://github.com/anthropics/skills
 
 ## SQL Projects<br>
-#1. E-commerce Customer Churn Analysis Using SQL<br>
+1. E-commerce Customer Churn Analysis Using SQL<br>
 https://github.com/Judithokon/Ecommerce-Customer-Churn-Analysis-Using-SQL<br>
 
-# 2. SQL Data Warehouse Project<br>
+2. SQL Data Warehouse Project<br>
 https://github.com/DataWithBaraa/sql-data-warehouse-project<br>
 
-# 3. Sales Data Analysis Using SQL<br>
+3. Sales Data Analysis Using SQL<br>
 https://www.kaggle.com/code/emirakyer/sql-sales-data-analysis<br>
 
-# 4. Bank Customer Segmentation Analysis<br>
+4. Bank Customer Segmentation Analysis<br>
 https://github.com/franklinanalytics/Bank-Segmentation-Analysis<br>
 
-# 5. Healthcare Data Analysis Using SQL<br>
+5. Healthcare Data Analysis Using SQL<br>
 https://www.kaggle.com/code/gizellef/healthcare-data-analysis-using-sql<br>
  
  
