@@ -273,21 +273,23 @@ https://github.com/mikeroyal/Self-Hosting-Guide
 **Anthropic Skills**<br>
 https://github.com/anthropics/skills
 
-## Summary Table
+## SQL Projects<br>
+#1. E-commerce Customer Churn Analysis Using SQL<br>
+https://github.com/Judithokon/Ecommerce-Customer-Churn-Analysis-Using-SQL<br>
 
-| Repository | Category | Primary Use |
-|-------------|-----------|-------------|
-| Awesome Self-Hosted | Directory | Discover applications |
-| Coolify | PaaS | Deploy apps |
-| n8n | Automation | Workflow automation |
-| Uptime Kuma | Monitoring | Service monitoring |
-| Nextcloud | Cloud Storage | File management |
-| Immich | Media | Photo backup |
-| Memos | Productivity | Notes management |
-| Proxmox Scripts | Infrastructure | VM/container setup |
-| Awesome Tunneling | Networking | Secure connectivity |
-| Self-Hosting Guide | Documentation | Learning & setup |
+# 2. SQL Data Warehouse Project<br>
+https://github.com/DataWithBaraa/sql-data-warehouse-project<br>
 
+# 3. Sales Data Analysis Using SQL<br>
+https://www.kaggle.com/code/emirakyer/sql-sales-data-analysis<br>
+
+# 4. Bank Customer Segmentation Analysis<br>
+https://github.com/franklinanalytics/Bank-Segmentation-Analysis<br>
+
+# 5. Healthcare Data Analysis Using SQL<br>
+https://www.kaggle.com/code/gizellef/healthcare-data-analysis-using-sql<br>
+ 
+ 
 
 
 ---
@@ -298,7 +300,6 @@ https://github.com/anthropics/skills
 - Bridge theory with production-ready implementations
 - Apply AI responsibly in enterprise and logistics systems
 - Continuously improve architecture, performance, and scalability
-
 ---
-
 > ⭐ *Curated with intent. Built for learning. Applied in real systems.*
+> 
