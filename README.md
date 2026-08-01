@@ -178,94 +178,65 @@ https://github.com/awesome-selfhosted/awesome-selfhosted#analytics
 ## 2. Coolify
 **Description:**  
 An open-source and self-hostable alternative to platforms like Heroku, Netlify, and Vercel.
-
 **Category:** Deployment Platform / PaaS
-
 **GitHub:**  
 https://github.com/coollabsio/coolify
----
 
 ## 3. n8n
 **Description:**  
 Workflow automation platform that enables connecting apps and automating tasks.
-
 **Category:** Workflow Automation
-
 **GitHub:**  
 https://github.com/n8n-io/n8n
----
 
 ## 4. Uptime Kuma
 **Description:**  
 A modern self-hosted monitoring tool for uptime checks and service health tracking.
-
 **Category:** Monitoring
-
 **GitHub:**  
 https://github.com/louislam/uptime-kuma
----
 
 ## 5. Nextcloud
 **Description:**  
 A self-hosted content collaboration and cloud storage platform.
-
 **Category:** Cloud Storage / Collaboration
-
 **GitHub:**  
 https://github.com/nextcloud/server
----
 
 ## 6. Immich
 **Description:**  
 A self-hosted photo and video backup solution with AI-powered features.
-
 **Category:** Media Management
-
 **GitHub:**  
 https://github.com/immich-app/immich
----
 
 ## 7. Memos
 **Description:**  
 A lightweight self-hosted note-taking and knowledge-sharing application.
-
 **Category:** Notes / Productivity
-
 **GitHub:**  
 https://github.com/usememos/memos
----
 
 ## 8. Proxmox VE Community Scripts
 **Description:**  
 Community-maintained scripts for simplifying deployment and management within Proxmox environments.
-
 **Category:** Virtualization / Infrastructure
-
 **GitHub:**  
 https://github.com/community-scripts/ProxmoxVE
-
----
 
 ## 9. Awesome Tunneling
 **Description:**  
 A curated list of tunneling, reverse proxy, and networking tools.
-
 **Category:** Networking / Remote Access
-
 **GitHub:**  
 https://github.com/anderspitman/awesome-tunneling
-
----
 
 ## 10. Self-Hosting Guide
 **Description:**  
 Comprehensive guide and resource collection for building self-hosted infrastructure.
-
 **Category:** Learning / Documentation
-
 **GitHub:**  
 https://github.com/mikeroyal/Self-Hosting-Guide
-
 ---
 **Anthropic Skills**<br>
 https://github.com/anthropics/skills
@@ -288,8 +259,8 @@ https://www.kaggle.com/code/gizellef/healthcare-data-analysis-using-sql<br>
 
 --- 
 
- ## 💻 5-Day AI Agents Intensive Course with Google<br>
- https://www.kaggle.com/learn-guide/5-day-agents
+## 💻 5-Day AI Agents Intensive Course with Google<br>
+https://www.kaggle.com/learn-guide/5-day-agents
 
 
 ---
