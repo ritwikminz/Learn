@@ -291,7 +291,7 @@ https://www.kaggle.com/code/gizellef/healthcare-data-analysis-using-sql<br>
 
 --- 
 
- ## 5-Day AI Agents Intensive Course with Google<br>
+ ## 💻 5-Day AI Agents Intensive Course with Google<br>
  https://www.kaggle.com/learn-guide/5-day-agents
 
 
