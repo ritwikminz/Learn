@@ -163,18 +163,15 @@ Implementation of the API Gateway pattern using .NET
 4. https://www.youtube.com/watch?v=vl6k_5epDgNt
 5. https://github.com/bharats_India
 
-# Top Self-Hosting GitHub Repositories
-
-A curated collection of useful self-hosting repositories covering automation, monitoring, cloud storage, media management, tunneling, and infrastructure tools.
-
 ---
+
+## Top Self-Hosting GitHub Repositories
+A curated collection of useful self-hosting repositories covering automation, monitoring, cloud storage, media management, tunneling, and infrastructure tools.
 
 ## 1. Awesome Self-Hosted
 **Description:**  
 A large curated list of free software network services and web applications that can be self-hosted.
-
 **Category:** Directory / Analytics / Self-hosted Resources  
-
 **GitHub:**  
 https://github.com/awesome-selfhosted/awesome-selfhosted#analytics
 
