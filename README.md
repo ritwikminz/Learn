@@ -233,7 +233,8 @@ A curated list of tunneling, reverse proxy, and networking tools.
 https://github.com/anderspitman/awesome-tunneling
 
 ## 10. Self-Hosting Guide
-**Description:**  
+
+**Description:**
 Comprehensive guide and resource collection for building self-hosted infrastructure.
 **Category:** Learning / Documentation
 **GitHub:**  
