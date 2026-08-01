@@ -245,6 +245,9 @@ https://github.com/mikeroyal/Self-Hosting-Guide
 **Anthropic Skills**<br>
 https://github.com/anthropics/skills
 
+---
+
+
 ## SQL Projects<br>
 1. E-commerce Customer Churn Analysis Using SQL<br>
 https://github.com/Judithokon/Ecommerce-Customer-Churn-Analysis-Using-SQL<br>
